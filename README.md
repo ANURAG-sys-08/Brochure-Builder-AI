@@ -1,10 +1,10 @@
 AI Brochure Generator
 
-A simple prototype that generates marketing brochure content using an LLM. Built in Jupyter Notebook, this tool takes user inputs—such as product details and brand tone—and produces structured brochure text automatically.
+A simple prototype that generates websites brochure content using an LLM. Built in Jupyter Notebook, this tool takes user website url as input and produces structured brochure text automatically.
 
 Features
 
-Generate brochure copy with just a few inputs
+Generate brochure copy with website url
 
 Uses an OpenAI LLM for high-quality content
 
